@@ -13,7 +13,7 @@ Please read the [citation](#restrictions) details below if you want to use/incor
         - (figure_name).m is the main MATLAB function that generates the figure specified by the figure name. 
         - (figure_name)_sdefile.m is the supporting function file. It contains the respective SDE model.
 
-    For example Fig7DE.m generate the figures  Figure 7D,E.
+    For example, Fig7DE.m generates the figures  Figure 7D,E.
 
 - The auxiliary functions:
 
