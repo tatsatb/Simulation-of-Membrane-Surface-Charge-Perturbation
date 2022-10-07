@@ -1,6 +1,6 @@
 # Simulation of optogenetic perturbation of membrane surface charge  
 
-This repository hosts the code for the article: _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_. DOI:[10.1101/2022.05.19.492577](https://doi.org/10.1101/2022.05.19.492577). The programs collectively model different optogenetic perturbations of inner membrane surface charge inside an excitable network topology. please see the _Methods_ section of the paper for details of the model. 
+This repository hosts the code for the article: _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_. DOI:[10.1038/s41556-022-00997-7](https://doi.org/10.1038/s41556-022-00997-7). The programs collectively model different optogenetic perturbations of inner membrane surface charge inside an excitable network topology. please see the _Methods_ section of the paper for details of the model. 
 
 Please read the [citation](#restrictions) details below if you want to use/incorporate/modify a part of this repository in your research. 
 
@@ -31,7 +31,7 @@ The MATLAB 2019a (or later versions) should be installed in the system to run th
 This program is a free software (please see [License](#license) for details). However, if you are using this code in your work, please cite our work as:
 
 
-> **Tatsat Banerjee, Debojyoti Biswas, Dhiman Sankar Pal, Yuchuan Miao, Pablo A. Iglesias, Peter N. Devreotes** _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_, bioRxiv, 2022.05.19.492577. DOI:[10.1101/2022.05.19.492577](https://doi.org/10.1101/2022.05.19.492577).
+> **Tatsat Banerjee, Debojyoti Biswas, Dhiman Sankar Pal, Yuchuan Miao, Pablo A. Iglesias, Peter N. Devreotes** _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_, Nature Cell Biology, 2022. DOI:[10.1038/s41556-022-00997-7](https://doi.org/10.1038/s41556-022-00997-7).
 
 
 ## Authors
