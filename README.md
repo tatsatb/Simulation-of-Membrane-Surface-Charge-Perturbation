@@ -1,6 +1,6 @@
 # Simulation of optogenetic perturbation of membrane surface charge  
 
-This repository hosts the code for the article: _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_. DOI:[10.1038/s41556-022-00997-7](https://doi.org/10.1038/s41556-022-00997-7). The programs collectively model different optogenetic perturbations of inner membrane surface charge inside an excitable network topology. please see the _Methods_ section of the paper for details of the model. 
+This repository hosts the code for the article: _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_. DOI:[10.1038/s41556-022-00997-7](https://doi.org/10.1038/s41556-022-00997-7). The programs collectively model different optogenetic perturbations of inner membrane surface charge inside an excitable network topology. please see the _Supplementary Information_ section of the paper for details of the model. 
 
 Please read the [citation](#restrictions) details below if you want to use/incorporate/modify a part of this repository in your research. 
 
