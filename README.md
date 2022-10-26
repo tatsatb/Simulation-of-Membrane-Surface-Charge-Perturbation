@@ -31,7 +31,7 @@ The MATLAB 2019a (or later versions) should be installed in the system to run th
 This program is a free software (please see [License](#license) for details). However, if you are using this code in your work, please cite our work as:
 
 
-> **Tatsat Banerjee, Debojyoti Biswas, Dhiman Sankar Pal, Yuchuan Miao, Pablo A. Iglesias, Peter N. Devreotes** _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_, Nature Cell Biology, 2022. DOI:[10.1038/s41556-022-00997-7](https://doi.org/10.1038/s41556-022-00997-7).
+> **Tatsat Banerjee, Debojyoti Biswas, Dhiman Sankar Pal, Yuchuan Miao, Pablo A. Iglesias, Peter N. Devreotes** _“Spatiotemporal dynamics of membrane surface charge regulates cell polarity and migration”_, Nature Cell Biology, 24, 1499-1515 (2022). DOI:[10.1038/s41556-022-00997-7](https://doi.org/10.1038/s41556-022-00997-7).
 
 
 ## Authors
